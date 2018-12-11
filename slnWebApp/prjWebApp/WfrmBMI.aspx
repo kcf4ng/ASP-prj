@@ -13,6 +13,10 @@
         .auto-style2 {
             text-align: center;
         }
+
+
+        #form1{background-image:url('../../img/banner.jpg');}
+
     </style>
 </head>
 <body style="font-weight: 700">
@@ -23,7 +27,7 @@
 		</div>
 	</div>
 </div>
-
+    
     <form id="form1" runat="server">
         <div>
                     <table class="auto-style1">
