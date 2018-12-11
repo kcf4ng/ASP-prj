@@ -1,2 +1,2 @@
-# ASP.NET 課程作業
+# ASP-prj
 BMI計算機網頁版
